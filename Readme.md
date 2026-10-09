@@ -3,7 +3,7 @@
 Ad Soyad : Altan Subaşı
 
 ## Pointer Nedir :
-    
+   başka bir değişkenin bellekteki adresini tutan değişkendir. 
 
 
 ## & Operatörü : 
